@@ -53,7 +53,7 @@ global.botname = 'AMESH DENUWAN' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "AMESH DENUWAN" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[DENUWAN BOT]' //
 
 //database
 global.premium = ['+94776727209'] //ur premium numbers
